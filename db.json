@@ -1,0 +1,50 @@
+[
+        {
+            "productId": 1,
+            "name": "Wasser",
+            "price": 3,
+            "food": false
+        },
+        {
+            "productId": 2,
+            "name": "Cola",
+            "price": 3,
+            "food": false
+        },
+        {
+            "productId": 3,
+            "name": "Maß Bier",
+            "price": 7,
+            "food": false
+        },
+        {
+            "productId": 4,
+            "name": "Maß Radler",
+            "price": 7,
+            "food": false
+        },
+        {
+            "productId": 5,
+            "name": "Weizenbier",
+            "price": 4,
+            "food": false
+        },
+        {
+            "productId": 6,
+            "name": "Pommes",
+            "price": 3,
+            "food": true
+        },
+        {
+            "productId": 7,
+            "name": "Currywurst",
+            "price": 3.5,
+            "food": true
+        },
+        {
+            "productId": 8,
+            "name": "Schnitzel mit Pommes und Salat",
+            "price": 7,
+            "food": true
+        }
+    ]
